@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**manateelazycat/manateelazycat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm ManateeLazyCat
 
 Here are some ideas to get you started:
+- Self-study computer and programming technology
+- Mobile game developer (2005 ~ 2007)
+- Create a clothing factory (2007 ~ 2009)
+- Pre-CTO of deepin operating system (2010 ~ 2018)
+- Own several IT companies now
+- Like self-driving tour, live with kind wife and cute daughter
+- A lot of time on [EAF](https://github.com/manateelazycat/emacs-application-framework)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、Ruby、Lua and more
+
+Welcome to my Chinese blog: [manateelazycat.github.io](https://manateelazycat.github.io/)
+
+[![Andy Stewart's Github Stats](https://github-readme-stats.vercel.app/api?username=manateelazycat&count_private=true&show_icons=true)](https://github.com/manateelazycat)
