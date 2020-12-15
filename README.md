@@ -13,4 +13,6 @@ Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、R
 
 Welcome to my Chinese blog: [manateelazycat.github.io](https://manateelazycat.github.io/)
 
-[![Andy Stewart's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ManateeLazyCat&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true)](https://github.com/manateelazycat)
+[![Andy Stewart's Github Stats](https://github-readme-stats.vercel.app/api?username=ManateeLazyCat&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/manateelazycat)
+
+[![Andy Stewart's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManateeLazyCat&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true)](https://github.com/manateelazycat)
