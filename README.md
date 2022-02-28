@@ -15,6 +15,6 @@ Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、R
 
 Welcome to my Chinese blog: [manateelazycat.github.io](https://manateelazycat.github.io/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ManateeLazyCat&count_private=true&show_icons=true&include_all_commits=true)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ManateeLazyCat&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManateeLazyCat&layout=compact&langs_count=100)](https://github.com/manateelazycat)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManateeLazyCat&layout=compact&langs_count=100)
