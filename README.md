@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - Pre-CTO of deepin operating system (2010 ~ 2018)
 - Own several IT companies now (2019 ~ now)
 - Like self-driving tour, live with kind wife and cute daughter
-- A lot of time on [EAF](https://github.com/manateelazycat/emacs-application-framework)
+- A lot of time on [EAF](https://github.com/manateelazycat/emacs-application-framework) and [lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
 
 Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、Ruby、Lua and more
 
