@@ -1,15 +1,15 @@
-### Hi, I'm ManateeLazyCat
+## Hi, I'm ManateeLazyCat
 
 I often use English name Andy Stewart, my Chinese name is 王勇.
 
 Here are some ideas to get you started:
-- Self-study computer and programming technology
-- Mobile game developer (2005 ~ 2007)
-- Create a clothing factory (2007 ~ 2009)
-- Pre-CTO of deepin operating system (2010 ~ 2018)
-- Own several IT companies now (2019 ~ now)
-- Like self-driving tour, live with kind wife and cute daughter
-- A lot of time on [EAF](https://github.com/manateelazycat/emacs-application-framework) and [lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
++ Self-study computer and programming technology
++ Mobile game developer (2005 ~ 2007)
++ Create a clothing factory (2007 ~ 2009)
++ Pre-CTO of deepin operating system (2010 ~ 2018)
++ Own several IT companies now (2019 ~ now)
++ Like self-driving tour, live with kind wife and cute daughter
++ A lot of time on [EAF](https://github.com/manateelazycat/emacs-application-framework) and [lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
 
 Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、Ruby、Lua and more
 
