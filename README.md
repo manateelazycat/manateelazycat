@@ -1,5 +1,7 @@
 ## Hi, I'm ManateeLazyCat
 
+### About Me
+
 I often use English name Andy Stewart, my Chinese name is 王勇.
 
 Here are some ideas to get you started:
@@ -15,8 +17,14 @@ Skills: Python、C、C++、Emacs Lisp、Haskell、Golang、Vala、JavaScript、R
 
 Welcome to my Chinese blog: [manateelazycat.github.io](https://manateelazycat.github.io/)
 
+### Coding Life
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ManateeLazyCat&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManateeLazyCat&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
+### Recent Activity
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manateelazycat&theme=vue)
+  
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=manateelazycat&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
