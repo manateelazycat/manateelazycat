@@ -24,6 +24,7 @@ Below are some elisp plugins I created, all elisp hacking please access [lazycat
 
 - **[EAF](https://github.com/emacs-eaf/emacs-application-framework)** EAF extends Emacs to the world of modern graphics. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emacs-eaf/emacs-application-framework?style=social">
 - **[lsp-bridge](https://github.com/manateelazycat/lsp-bridge)** A blazingly fast LSP client for Emacs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/lsp-bridge?style=social">
+- **[holo-layer](https://github.com/manateelazycat/holo-layer)** HoloLayer is a multimedia layer plugin designed specifically for Emacs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/holo-layer?style=social">
 - **[cloel](https://github.com/manateelazycat/cloel)** A framework that combines Clojure and Elisp for collaborative programming. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/cloel?style=social">
 - **[python-bridge](https://github.com/manateelazycat/python-bridge)** Write Emacs Plugin by Python, split code from EAF. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/python-bridge?style=social">
 - **[color-rg](https://github.com/manateelazycat/color-rg)** Search and refactoring tool based on ripgrep. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/color-rg?style=social">
