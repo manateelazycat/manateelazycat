@@ -18,7 +18,7 @@ Skills: Python、 C、 C++、 Emacs Lisp、 Haskell、 Golang、 Vala、 JavaScr
 
 Welcome to my Chinese blog: [manateelazycat.github.io](https://manateelazycat.github.io/)
 
-### EAF Projects
+### My Projects
 Below are my open-source projects, welcome to fork!
 
 - **[emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework)** EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emacs-eaf/emacs-application-framework?style=social">
