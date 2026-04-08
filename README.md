@@ -136,6 +136,7 @@ Below are my open-source projects, welcome to fork!
 - **[deno-bridge-ts](https://github.com/manateelazycat/deno-bridge-ts)** Build bridge between Emacs and Deno, execution of JavaScript and Typescript within Emacs, this repo is TypeScript part for deno-bridge <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/deno-bridge-ts?style=social">
 - **[reorder-file](https://github.com/manateelazycat/reorder-file)** Reorder file content base on cloel <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/reorder-file?style=social">
 - **[rime-ice-installer](https://github.com/manateelazycat/rime-ice-installer)** 雾凇输入法的自动安装程序 <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/rime-ice-installer?style=social">
+- **[xray-installer](https://github.com/manateelazycat/xray-installer)** 一键自动化部署Xray VPS <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/xray-installer?style=social">
 - **[rubocop-config](https://github.com/manateelazycat/rubocop-config)** Configuration file for RobuCop <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/rubocop-config?style=social">
 - **[cctui](https://github.com/manateelazycat/cctui)** A truly useful command-line AI provider switching tool <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/manateelazycat/cctui?style=social">
 
