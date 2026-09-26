@@ -154,7 +154,7 @@ Below are my open-source projects, welcome to fork!
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manateelazycat&theme=vue)
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manateelazycat&theme=vue&exclude=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+![Top 20 Languages by Code Size](https://github-stats-extended.vercel.app/api/top-langs/?username=manateelazycat&layout=compact&langs_count=20&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl&card_width=600&theme=vue&custom_title=Top%2020%20Languages%20by%20Code%20Size)
 
 ### Recent Activity
 
