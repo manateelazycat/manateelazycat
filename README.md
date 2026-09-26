@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 + Own several IT companies now (2019 ~ now)
 + The CEO of [Lazycat MicroServer](https://lazycat.cloud/) (2019 ~ now)
 + Like self-driving tour, live with kind wife and cute daughter
-+ A lot of hacking time on [EAF](https://github.com/emacs-eaf/emacs-application-framework), [lsp-bridge](https://github.com/manateelazycat/lsp-bridge) and [cloel](https://github.com/manateelazycat/cloel)
++ A lot of hacking time on [EAF](https://github.com/emacs-eaf/emacs-application-framework), [lsp-bridge](https://github.com/manateelazycat/lsp-bridge), [cloel](https://github.com/manateelazycat/cloel), and [Omarchy](https://github.com/omacom/omarchy)
 
 Skills: Python、 C、 C++、 Emacs Lisp、 Haskell、 Golang、 Vala、 JavaScript、 Clojure、 Ruby、 Lua and more
 
